@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://declared-belts-campus-symphony.trycloudflare.com/vnc.html
+URL       : https://shares-groundwater-passage-str.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-01 19:59:22
+Created   : 2026-06-01 22:37:58
 =======================================================
