@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://canvas-univ-academic-transcript.trycloudflare.com/vnc.html
+URL       : https://cocktail-view-generates-socks.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-04 17:50:37
+Created   : 2026-06-04 21:48:33
 =======================================================
