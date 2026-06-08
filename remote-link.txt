@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://routes-congress-prospect-rotation.trycloudflare.com/vnc.html
+URL       : https://alfred-communist-radiation-awareness.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-08 14:17:00
+Created   : 2026-06-08 18:02:56
 =======================================================
