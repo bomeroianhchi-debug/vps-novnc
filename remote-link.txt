@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://have-plates-grove-ellis.trycloudflare.com/vnc.html
+URL       : https://alignment-housing-bookmarks-autos.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-11 18:22:59
+Created   : 2026-06-11 22:08:58
 =======================================================
