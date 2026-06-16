@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://operating-patrol-comment-fitting.trycloudflare.com/vnc.html
+URL       : https://waiver-modem-men-cedar.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-16 15:15:30
+Created   : 2026-06-16 22:21:26
 =======================================================
