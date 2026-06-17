@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://chapters-coupon-salem-hewlett.trycloudflare.com/vnc.html
+URL       : https://scholars-glen-world-otherwise.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-17 13:47:41
+Created   : 2026-06-17 17:53:21
 =======================================================
