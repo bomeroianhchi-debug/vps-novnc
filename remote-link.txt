@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://lone-wake-navigation-snake.trycloudflare.com/vnc.html
+URL       : https://builds-deposits-translated-citizenship.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-17 22:08:23
+Created   : 2026-06-18 04:30:20
 =======================================================
