@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://coalition-assured-thought-guild.trycloudflare.com/vnc.html
+URL       : https://authorized-founder-brochure-talent.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-18 18:11:20
+Created   : 2026-06-18 22:21:55
 =======================================================
