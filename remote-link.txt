@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://packaging-international-roland-rom.trycloudflare.com/vnc.html
+URL       : https://preliminary-academics-treo-passing.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-21 12:16:37
+Created   : 2026-06-21 16:51:04
 =======================================================
