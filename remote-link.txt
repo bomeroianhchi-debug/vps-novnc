@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://finances-respiratory-terrace-spots.trycloudflare.com/vnc.html
+URL       : https://bowl-clients-shortcuts-frame.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-03 12:14:22
+Created   : 2026-07-03 16:41:38
 =======================================================
