@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://yang-mississippi-peak-ward.trycloudflare.com/vnc.html
+URL       : https://inquire-suite-greatest-mystery.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-04 11:40:33
+Created   : 2026-07-04 16:10:46
 =======================================================
