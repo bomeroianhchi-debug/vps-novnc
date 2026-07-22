@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://forwarding-stack-entity-once.trycloudflare.com/vnc.html
+URL       : https://salad-expressions-expressed-modem.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-22 16:25:30
+Created   : 2026-07-22 21:17:08
 =======================================================
