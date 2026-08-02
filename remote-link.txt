@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://off-drug-mild-valid.trycloudflare.com/vnc.html
+URL       : https://particularly-parties-frost-proud.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-02 11:22:34
+Created   : 2026-08-02 16:06:12
 =======================================================
