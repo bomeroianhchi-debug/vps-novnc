@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://isle-snake-matter-contracting.trycloudflare.com/vnc.html
+URL       : https://much-promise-direct-prototype.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-08 05:47:31
+Created   : 2026-08-08 10:41:03
 =======================================================
