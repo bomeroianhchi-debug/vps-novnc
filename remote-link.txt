@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://riders-integration-shipment-stud.trycloudflare.com/vnc.html
+URL       : https://designer-interviews-playback-perth.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-12 02:24:15
+Created   : 2026-08-12 06:20:50
 =======================================================
