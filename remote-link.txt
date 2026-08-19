@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://reviewer-degree-yorkshire-carnival.trycloudflare.com/vnc.html
+URL       : https://dried-rather-dogs-certification.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-18 20:31:36
+Created   : 2026-08-19 01:38:08
 =======================================================
