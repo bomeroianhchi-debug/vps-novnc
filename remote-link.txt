@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://system-rand-market-stainless.trycloudflare.com/vnc.html
+URL       : https://cal-minnesota-initial-bangkok.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-26 16:24:05
+Created   : 2026-08-26 23:11:45
 =======================================================
