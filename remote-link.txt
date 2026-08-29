@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://referral-except-supplies-wanna.trycloudflare.com/vnc.html
+URL       : https://arrive-platinum-watched-scsi.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-29 07:00:02
+Created   : 2026-08-29 15:00:48
 =======================================================
