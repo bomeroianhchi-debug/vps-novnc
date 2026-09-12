@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://desired-version-venue-extensions.trycloudflare.com/vnc.html
+URL       : https://turned-machine-misc-config.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-12 04:07:34
+Created   : 2026-09-12 09:10:04
 =======================================================
