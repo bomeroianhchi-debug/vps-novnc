@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://dear-stage-discover-ooo.trycloudflare.com/vnc.html
+URL       : https://freeware-settlement-euros-space.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-10 15:49:43
+Created   : 2026-10-10 23:24:07
 =======================================================
