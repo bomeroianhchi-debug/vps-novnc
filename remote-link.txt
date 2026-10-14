@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://exports-wanted-abstracts-win.trycloudflare.com/vnc.html
+URL       : https://fog-raise-flux-vienna.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-14 04:21:31
+Created   : 2026-10-14 10:02:21
 =======================================================
