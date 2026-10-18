@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://elimination-aids-scratch-transmit.trycloudflare.com/vnc.html
+URL       : https://lane-pdt-customized-championship.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-18 09:27:14
+Created   : 2026-10-18 13:55:05
 =======================================================
