@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://north-oregon-shipments-publicly.trycloudflare.com/vnc.html
+URL       : https://improve-arranged-detector-billion.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-20 22:12:45
+Created   : 2026-11-21 06:31:35
 =======================================================
