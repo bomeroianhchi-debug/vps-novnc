@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://improve-arranged-detector-billion.trycloudflare.com/vnc.html
+URL       : https://superior-run-confidentiality-promotional.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-21 06:31:35
+Created   : 2026-11-21 17:16:29
 =======================================================
