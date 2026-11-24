@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://object-sms-passion-woods.trycloudflare.com/vnc.html
+URL       : https://wales-adventures-fabric-clock.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-23 21:59:28
+Created   : 2026-11-24 09:18:36
 =======================================================
